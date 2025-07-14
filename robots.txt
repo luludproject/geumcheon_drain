@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://guro.the-drain.com/sitemap.xml
+Sitemap: https://geumcheon.the-drain.com/sitemap.xml
